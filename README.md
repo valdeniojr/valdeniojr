@@ -54,7 +54,12 @@
 
 ###
 
+## Activity Snapshot
+[![Valdênio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=valdeniojr&bg_color=0d1117&color=c9d1d9&line=39d353&point=39d353&area=true&area_color=39d35320&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## Contribution Flow
 <p align="center">
   <img src="https://raw.githubusercontent.com/valdeniojr/valdeniojr/output/github-snake-dark.svg" />
 </p>
+
